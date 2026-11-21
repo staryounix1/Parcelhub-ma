@@ -1,0 +1,6 @@
+{
+  "name": "ParcelHub MA",
+  "description": "Multi-tenant Moroccan COD logistics and parcel tracking platform powered by Supabase, unifying 5 local carriers, store webhooks, and WhatsApp automation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

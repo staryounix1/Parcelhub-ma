@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ParcelHub MA</string>
+    <string name="cd_app_logo">شعار ParcelHub MA</string>
+    <string name="cd_language_toggle">تبديل اللغة بين العربية والفرنسية</string>
+    <string name="cd_merchant_account">حساب التاجر</string>
+</resources>
